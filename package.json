@@ -1,0 +1,22 @@
+{
+  "name": "Developer_Resources",
+  "version": "1.0.0",
+  "description": "Developer Resouce Center",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tivrama/Developer_Resources.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Joel Schoolnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tivrama/Developer_Resources/issues"
+  },
+  "homepage": "https://github.com/tivrama/Developer_Resources#readme"
+}
